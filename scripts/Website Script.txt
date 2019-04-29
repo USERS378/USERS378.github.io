@@ -1,4 +1,4 @@
-<html lang="en" dir="ltr"><head>
+﻿<html lang="en" dir="ltr"><head>
 <title>Basic 86</title>
 <meta charset="UTF-8">
 <link rel="stylesheet" href="styles/layout.css" type="text/css">
@@ -79,7 +79,7 @@ If this game is successful it may be used to inspire others into making games wo
 
 
 </p>
-         
+          <footer class="more"><a href="#">Read More »</a></footer>
         </article>
       </section>
       <!-- / services area -->
@@ -111,3 +111,33 @@ If this game is successful it may be used to inspire others into making games wo
           <figure><img src="images/demo/215x100.gif" width="215" height="100" alt="">
             <figcaption>
               <h2>Indonectetus facilis</h2>
+              <p>Nullamlacus dui ipsum conseque loborttis non euisque morbi penas dapibulum orna.</p>
+              <footer class="more"><a href="#">Read More »</a></footer>
+            </figcaption>
+          </figure>
+        </article>
+        <article class="one_quarter lastbox">
+          <figure><img src="images/demo/215x100.gif" width="215" height="100" alt="">
+            <figcaption>
+              <h2>Indonectetus facilis</h2>
+              <p>Nullamlacus dui ipsum conseque loborttis non euisque morbi penas dapibulum orna.</p>
+              <footer class="more"><a href="#">Read More »</a></footer>
+            </figcaption>
+          </figure>
+        </article>
+      </section>
+      <!-- / One Quarter -->
+    </div>
+    <!-- / content body -->
+  </div>
+</div>
+<!-- Footer -->
+<div class="wrapper row3">
+  <footer id="footer" class="clear">
+    <p class="fl_left">Copyright © 2018 - All Rights Reserved - <a href="#">Domain Name</a></p>
+    <p class="fl_right">Template by <a target="_blank" href="https://www.os-templates.com/" title="Free Website Templates">OS Templates</a></p>
+  </footer>
+</div>
+
+
+</body></html>
