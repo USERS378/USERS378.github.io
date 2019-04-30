@@ -111,7 +111,7 @@ If this game is successful it may be used to inspire others into making games wo
               
 <div class="wrapper row3">
   <footer id="footer" class="clear">
-    <p class="fl_left">Copyright © 2018 - All Rights Reserved - <a href="#">Domain Name</a></p>
+    <p class="fl_left">Copyright © 2018 - All Rights Reserved -                                     <a href="#">Domain Name</a></p>
     <p class="fl_right"> <a target="_blank"  title=""></a></p>
   </footer>
 </div>
