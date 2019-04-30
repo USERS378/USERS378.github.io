@@ -21,11 +21,14 @@
 <div class="wrapper row2">
   <div id="container" class="clear">
     <!-- Slider -->
-    <section id="slider" class="clear">
+    <section id="" class="clear">
+      <figure>
+        
         <figcaption>
           <h2>Personal Information. Who Am I</h2>
           <p>Hi. My name is Iman Hakedin. My student number is s3782317. My School email address is s3782317@student.rmit.edu.au. I'm from the country Eritrea in eastern Africa although I was born in Melbourne, Australia. I've completed Year 12 and in my first year at RMIT. I speak English and a little bit of Tigrinya (Primary Langauge spoken in Eritrea. One fact about me is that I love to play the Piano, it is a rather new hobby that I have spent doing, but it has become one of my favourite to do in the whole world.</p>
-          <footer class="more"><a href="#">Read More »</a></footer>
+          <img src="images/Images/hopefully better.jpg" alt="">
+          
         </figcaption>
       </figure>
     </section>
@@ -34,31 +37,27 @@
       <!-- services area -->
       <section id="services" class="clear">
         <!-- article 1 -->
-        <article class="Eu justo augue estas">
+       <article class="one_third">
           <h2>Personality Test 1</h2>
-          <img src="images/Images/Personality Test.png" alt="">
-          <p>___________</p>
-          <footer class="more"><a href="#">Read More »</a></footer>
+          <img src="images/Images/Personality Test.png" width="215" height="100" alt="">
+          <p>I guess this diagnosis would be fairly accurate, something that should be known is that I feel my mood towards people and the world is definitely flexible. It changes so often but most of the time I do try to see the  best in people, and so this diagnosis fits pretty well.</p>
+          
+        </article>
+         
         </article>
         <!-- article 2 -->
-        <article class="one_third">
+       <article class="one_third">
           <h2>Personality Test 2</h2>
-          <img src="images/Images/Personality Test 2.png" alt="">
-          <p>++++++++++++!!!!!
-
-++++++++++!!!!!</p>
-          <footer class="more"><a href="#">Read More »</a></footer>
+          <img src="images/Images/Personality Test 2.png" width="215" height="100" alt="">
+          <p>This personality diagnosis I feel is more accurate to me than the first test because, most everything described is true. The fact that I am more introverted than outroverted is very true, also the fact that I prefer Intuition over sensing is quite accurate.</p>
+         
         </article>
         <!-- article 3 -->
-        <article class="one_third lastbox">
+        <article class="one_third">
           <h2>Personality Test 3</h2>
-          <img src="images/demo/80x80.gif" alt="">
-          <p>-++
+           <img src="images/Images/Personality Test 3.png" width="215" height="100" alt="">
+          <p>This diagnosis I feel is very accurate maybe even the most accurate. It states that I am a physical learner over reading or listening which is exactly how I feel when learning, also being a pianist and preferring learning physically then reading/listening is precise to me.</p>
 
-__
-
-</p>
-          <footer class="more"><a href="#">Read More »</a></footer>
         </article>
       </section>
       <!-- / services area -->
@@ -69,7 +68,7 @@ __
       <!-- One Quarter -->
       <section id="latest" class="last clear">
         <article class="one_quarter">
-          <figure><img src="images/demo/215x100.gif" width="215" height="100" alt="">
+          <figure><img src="images/Images/macpic.jpg" width="215" height="100" alt="">
             <figcaption>
               <h2>Interest in IT</h2>
               <p>My Interest in IT mainly lies in Developing programs for big business’, whether that be building websites for business’, Applications, even developing games for game Publishers (Activision, EA) My interest in IT never really had a starting point, it was built over the years slowly. I was introduced to computers an early age and since then seeing all the things that computers can do has really blown my mind. Seeing all the things that big tech companies like Google and Apple have been able to achieve is spectacular, they’ve truly revolutionised the world as we know it. I don’t really have to much experience with IT, I just know basic functions of the computer, I consider myself Technology literate. I chose RMIT mainly because of its well-deserved status of being a school with such an outstanding Technology department, it has computers in almost every classroom making it very convenient for technology students. It also is in the heart of Melbourne making the journey to it, not too far away. I am able to go to class, spend a couple hours after class to study and then ill be able to get home at an ideal time. I honestly don’t know what to expect with IT but I imagine that Ill learn to create programs, websites etc. I also expect to learn more about what IT is all about, things such as designing program interface and looking at what users want in products/services. </p>
@@ -78,7 +77,7 @@ __
           </figure>
         </article>
         <article class="one_quarter">
-          <figure><img src="images/demo/215x100.gif" width="215" height="100" alt="">
+          <figure><img src="images/Images/IT.jpg" width="215" height="100" alt="">
             <figcaption>
               <h2>Ideal Job</h2>
               <p>My Ideal job would be that of a business analyst. A business analyst is someone who analyses operations related to technical systems within business, as well as learning the needs of stakeholders. I like this job because it seems like it involves a lot of managing which I do find interesting. It also enables me to also learn more about what stakeholders such as consumers want. I think this is particularly good because, I would enjoy being able to switch between working in an office alone to working alongside fellow employees. The requirements for a job like this is at least 5 years of work in IT prior to this role. Demonstrated skills of working in an open environment. Excellent demonstrated skills as a systems analyst working on complex software applications. great written and oral communications skills with the proven ability to author complex specifications. I think the only way I can obtain this job is by working hard in my years as just an Information Technologist. I will observe my managers or others in a position like that and use that to further my chances of acquiring the job. Also just furthering my skills in the workplace as best as I can. Also networking and using that to ask if any positions like that are available.</p>
@@ -87,7 +86,7 @@ __
           </figure>
         </article>
         <article class="one_quarter">
-          <figure><img src="images/demo/215x100.gif" width="215" height="100" alt="">
+          <figure><img src="images/Images/project game ting.jpg" width="215" height="100" alt="">
             <figcaption>
               <h2>Project</h2>
               <p>
@@ -109,13 +108,10 @@ A great deal of knowledge on creating games on engines such as unity or unreal e
 If this game is successful it may be used to inspire others into making games worth their money. Games that are new and original and that are also fun to play on. My original problem is that games are becoming very similar nowadays and with a game like this where a whole completely new mechanic is brought to and old brand, it shows that being original is what all game developers should try to achieve, also exploring different types of games may also be worthwhile.
 
 </p>
-           
+              
 <div class="wrapper row3">
   <footer id="footer" class="clear">
-    <p class="fl_left">Copyright © 2018 - All Rights Reserved - <a href="#">Iman Website</a></p>
-    <p class="fl_right">Template by <a target="_blank" href="https://www.os-templates.com/" title="Free Website Templates">OS Templates</a></p>
+    <p class="fl_left">Copyright © 2018 - All Rights Reserved - <a href="#">Domain Name</a></p>
+    <p class="fl_right"> <a target="_blank"  title=""></a></p>
   </footer>
 </div>
-
-
-</body></html>
